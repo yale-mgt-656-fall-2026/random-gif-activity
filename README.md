@@ -1,3 +1,6 @@
+## Changes made by Hrishi
+Along with instructions for the 5 stories, I also added a custom image by adding it to a public repo. The h1, h2 and h3 paint a cohesive picture and lead to the image. The cat GIFs make it easy to relate to the logo. I will be setting the default option for GIFs to be cat only.
+
 # Random GIF activity
 
 Build a tiny Go web app that shows a GIF. You'll work in pairs and take turns
